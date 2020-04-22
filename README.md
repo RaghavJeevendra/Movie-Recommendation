@@ -10,4 +10,5 @@ Steps:
 6. To launch the app Step 1: pip install anvil-uplink and run the last segment of the code in the notebook(Anvil Application).
                      Step 2: ping me to get an unique link of the web app, as it refreshes for every run.(rjeevend@asu.edu)
                      Step 3: Curremt run web app link: "https://weurmyvpg5hs3s5f.anvil.app/"
+7. For all the results please refer the ipynb. 
 
